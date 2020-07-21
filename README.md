@@ -23,7 +23,7 @@ injected. I believe it is much easier to make this connections if you are active
 eat effects you.
 
 
-###Functionality:
+### Functionality:
 
 - Adding, removing, sorting, summoning, editing food items.
 - Data persistence: storing, retrieving and updating data into a file.
@@ -32,7 +32,7 @@ eat effects you.
 - Ui interaction audio.
 
 
-###Programing Practices:
+### Programing Practices:
 This project was part of UBC's CPSC 210 course which heavily enforced and taught correct coding practices. 
 Several of these coding practices and design principles were used in this project such as:
 
