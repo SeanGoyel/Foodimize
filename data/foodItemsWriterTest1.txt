@@ -1,0 +1,2 @@
+pizza,Restaurant,pizza hut,italian,happy,Emotional,heavy,Physical,bloated,Physical
+egg,Brand,nestle,sad,Emotional,fast,Physical,tired,Physical
